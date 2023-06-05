@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mikeliuu.github.io/web3-nft-contract-demo",
-  "name": "web3-simple-mint-nft-interface",
+  "homepage": "https://mikeliuu.github.io/web3-simple-nft-minting",
+  "name": "web3-simple-nft-interface",
   "version": "0.1.0",
   "private": true,
   "scripts": {
