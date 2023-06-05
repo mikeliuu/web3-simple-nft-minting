@@ -1,0 +1,18 @@
+{
+  "name": "Chilling Avo Club #0",
+  "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+  "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/0.png",
+  "dna": "cbc046091a98a9430ae384782abd2f8fc244e66f",
+  "edition": 0,
+  "date": 1651910276116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "black"
+    },
+    {
+      "trait_type": "Avo",
+      "value": "avo"
+    }
+  ]
+}

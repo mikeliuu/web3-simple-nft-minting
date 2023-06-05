@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Chilling Avo Club #0",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/0.png",
+    "dna": "cbc046091a98a9430ae384782abd2f8fc244e66f",
+    "edition": 0,
+    "date": 1651910276116,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #1",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/1.png",
+    "dna": "91694823302f18f80d951ccb9bddd57822e08ebf",
+    "edition": 1,
+    "date": 1651910276160,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #2",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/2.png",
+    "dna": "9162eb309217503fd923a5e43011819af6531a5f",
+    "edition": 2,
+    "date": 1651910276210,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #3",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/3.png",
+    "dna": "db0c363545a618dc22822a9df905f099ef973d0d",
+    "edition": 3,
+    "date": 1651910276259,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #4",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/4.png",
+    "dna": "acd59fe856198602ca4980700e64bc9ae707bc92",
+    "edition": 4,
+    "date": 1651910276298,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #5",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/5.png",
+    "dna": "3ae1d1eb111428e1a16f0767eff07db571f15c29",
+    "edition": 5,
+    "date": 1651910276346,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_green"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #6",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/6.png",
+    "dna": "7ca10699acbeb4af50bae71d07181d35d133f528",
+    "edition": 6,
+    "date": 1651910276394,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #7",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/7.png",
+    "dna": "9ebd24d23d4b43642b6a2910b4a4a72e5be3f4af",
+    "edition": 7,
+    "date": 1651910276469,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #8",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/8.png",
+    "dna": "5152c466d651c5dcf62be2e7711f08696dbb0e65",
+    "edition": 8,
+    "date": 1651910276563,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #9",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/9.png",
+    "dna": "fdaffa3fb3cfef54c6a89e0c6354ea34df397749",
+    "edition": 9,
+    "date": 1651910276608,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #10",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/10.png",
+    "dna": "f06c64131b8882a584169f2d97c1469e4a65528c",
+    "edition": 10,
+    "date": 1651910276663,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #11",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/11.png",
+    "dna": "c311af56ae7250557d144b1e7edba08799561f8d",
+    "edition": 11,
+    "date": 1651910276711,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_green"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #12",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/12.png",
+    "dna": "5f59d392b91e6fba1fbbd9d2927c4375ecd72710",
+    "edition": 12,
+    "date": 1651910276765,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #13",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/13.png",
+    "dna": "af430cc1b5ad857cb53629c4027e5495f2e315ad",
+    "edition": 13,
+    "date": 1651910276816,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "white"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #14",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/14.png",
+    "dna": "f1e08d6449dbf3719cb018771e6741f6e51781b7",
+    "edition": 14,
+    "date": 1651910276873,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #15",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/15.png",
+    "dna": "8595d54c20dcefc9f8ec41dc43a845cef49c1e99",
+    "edition": 15,
+    "date": 1651910276922,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #16",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/16.png",
+    "dna": "cb707fe79fca9f0ba92f2d11e3cb6a7476e473d5",
+    "edition": 16,
+    "date": 1651910276971,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #17",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/17.png",
+    "dna": "785937935c07397668995989fd8c76d7805872b3",
+    "edition": 17,
+    "date": 1651910277008,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #18",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/18.png",
+    "dna": "d1b51acb1d623cdeb5c176789af2331585602f10",
+    "edition": 18,
+    "date": 1651910277045,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #19",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/19.png",
+    "dna": "d952a20531437f14ba7bea4f0dc15bf456439e07",
+    "edition": 19,
+    "date": 1651910277081,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "light_green"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #20",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/20.png",
+    "dna": "3e9f4017830f566a6fd36c9dbca360607f080f90",
+    "edition": 20,
+    "date": 1651910277119,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #21",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/21.png",
+    "dna": "dd0f30ae4cdb4d385eb364b96f5755272be5c1ed",
+    "edition": 21,
+    "date": 1651910277153,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "white"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #22",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/22.png",
+    "dna": "8d88b813c2e6129f07dd79592a7265279b5d0a99",
+    "edition": 22,
+    "date": 1651910277200,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #23",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/23.png",
+    "dna": "e9864389be20b2dddaa489c8024f383b87a9bacf",
+    "edition": 23,
+    "date": 1651910277247,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "white"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #24",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/24.png",
+    "dna": "282d36a02c28f813de1ae36d496ec69c84c5229c",
+    "edition": 24,
+    "date": 1651910277284,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #25",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/25.png",
+    "dna": "0b28f2f6cd9230a3628dd34cef4bc8f28ce32ded",
+    "edition": 25,
+    "date": 1651910277331,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #26",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/26.png",
+    "dna": "d5ee0e1c0cc8f149313008aa5586bf8c1a4ebee3",
+    "edition": 26,
+    "date": 1651910277367,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_vintage"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #27",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/27.png",
+    "dna": "281ef76866e07769a54f685fa4c84f878295cb71",
+    "edition": 27,
+    "date": 1651910277411,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #28",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/28.png",
+    "dna": "37967bdf7b5e94c2b1e3e57d5ffa484adb0ff719",
+    "edition": 28,
+    "date": 1651910277458,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo_toxic"
+      }
+    ]
+  },
+  {
+    "name": "Chilling Avo Club #29",
+    "description": "Chilling Avo Club is a collection of 30 unique Avo NFTs — unique digital collectibles living on the Ethereum blockchain",
+    "image": "ipfs://QmNeBWe4H4iT7SJNkvBCUU6UyNNzE6uz4nfqJ1MqWWbQpG/29.png",
+    "dna": "8487e8ba3b0be23097bf2c988911359c8327cef8",
+    "edition": 29,
+    "date": 1651910277505,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Avo",
+        "value": "avo"
+      }
+    ]
+  }
+]
