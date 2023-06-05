@@ -4,6 +4,8 @@ import { utils } from "ethers";
 
 import Big from "big.js";
 
+import { isBrowser, isMobile } from "react-device-detect";
+
 import { Board, ProgressBar, Chip, Label, Bold } from "./display";
 
 import { TextInput, Switch } from "./input";
@@ -409,39 +411,43 @@ export default function MaticNft() {
 			</h1>
 
 			{account && (
-				<Board className="flex flex-col py-6 mb-4">
-					<div className="grid gap-2">
-						<div className="flex flex-wrap w-full">
-							<div>
-								<Label>Network</Label>
+				<>
+					<Board className="flex flex-col py-6 mb-4">
+						<div className="grid gap-2">
+							<div className="flex flex-wrap w-full">
+								<div>
+									<Label>Network</Label>
 
-								<div className="flex mb-2">
-									<Chip primary>{network.name}</Chip>
+									<div className="flex mb-2">
+										<Chip primary>{network.name}</Chip>
+									</div>
 								</div>
+
+								{isWalletConnect && (
+									<div className="ml-auto">
+										<Button size="small" onClick={disconnectWalletConnect}>
+											Disconnect
+										</Button>
+									</div>
+								)}
 							</div>
 
-							{isWalletConnect && (
-								<div className="ml-auto">
-									<Button size="small" onClick={disconnectWalletConnect}>
-										Disconnect
-									</Button>
-								</div>
-							)}
+							<div>
+								<Label>Wallet Address</Label>
+
+								<p className="text-white text-md">
+									{getDisplayAddress(account)}
+								</p>
+							</div>
+
+							<div>
+								<Label>Amount Minted</Label>
+
+								<p className="text-white text-md">{token.ownerBalance}</p>
+							</div>
 						</div>
-
-						<div>
-							<Label>Wallet Address</Label>
-
-							<p className="text-white text-md">{getDisplayAddress(account)}</p>
-						</div>
-
-						<div>
-							<Label>Amount Minted</Label>
-
-							<p className="text-white text-md">{token.ownerBalance}</p>
-						</div>
-					</div>
-				</Board>
+					</Board>
+				</>
 			)}
 
 			<Board className="flex justify-center items-center flex-col mb-4">
@@ -466,70 +472,77 @@ export default function MaticNft() {
 					</p>
 				</div>
 
-				<div className="mb-4">
-					<TextInput
-						className="mb-2"
-						labelClass="text-center"
-						type="number"
-						label="Quantity"
-						name="mintQty"
-						value={mintQty}
-						max={token.maxMint}
-						onChange={handleMintQtyChange}
-						disabled={!token?.isSaleActive || !mintLeft || isAllSupplied}
-					/>
-
-					<p className="text-sm text-zinc-200 text-center mb-2">
-						How many NFTs to mint?
-					</p>
-
-					<p className="text-sm text-zinc-200 text-center mb-2">
-						max mint: <Bold>{token.maxMint}</Bold>
-					</p>
-
-					<p className="text-sm text-zinc-200 text-center mb-2">
-						mint left:{" "}
-						<Bold>
-							{mintLeft ?? "?"} / {token.maxBalance ?? "?"}
-						</Bold>
-					</p>
-
-					<p className="text-sm text-zinc-200 text-center">
-						Cost:{" "}
-						<Bold>
-							{token?.mintPrice * mintQty} {network.symbol}
-						</Bold>
-					</p>
-				</div>
-
 				{account ? (
-					<Button
-						loading={loading}
-						disabled={!token?.isSaleActive || !mintLeft || isAllSupplied}
-						onClick={handleMint}
-					>
-						Mint
-					</Button>
+					<>
+						<div className="mb-4">
+							<TextInput
+								className="mb-2"
+								labelClass="text-center"
+								type="number"
+								label="Quantity"
+								name="mintQty"
+								value={mintQty}
+								max={token.maxMint}
+								onChange={handleMintQtyChange}
+								disabled={!token?.isSaleActive || !mintLeft || isAllSupplied}
+							/>
+
+							<p className="text-sm text-zinc-200 text-center mb-2">
+								How many NFTs to mint?
+							</p>
+
+							<p className="text-sm text-zinc-200 text-center mb-2">
+								max mint: <Bold>{token.maxMint}</Bold>
+							</p>
+
+							<p className="text-sm text-zinc-200 text-center mb-2">
+								mint left:{" "}
+								<Bold>
+									{mintLeft ?? "?"} / {token.maxBalance ?? "?"}
+								</Bold>
+							</p>
+
+							<p className="text-sm text-zinc-200 text-center">
+								Cost:{" "}
+								<Bold>
+									{token?.mintPrice * mintQty} {network.symbol}
+								</Bold>
+							</p>
+						</div>
+
+						<Button
+							loading={loading}
+							disabled={!token?.isSaleActive || !mintLeft || isAllSupplied}
+							onClick={handleMint}
+						>
+							Mint
+						</Button>
+					</>
 				) : (
-					<div className="flex justify-around items-center flex-wrap flex-row">
-						{isMetaMask && (
+					<>
+						<div className="text-white font-medium text-md my-4">
+							Connect to the Polygon network
+						</div>
+						<div className="flex justify-around items-center flex-wrap flex-row">
+							{isBrowser && isMetaMask && (
+								<Button
+									className="mx-2 mb-4 xs:mb-0"
+									loading={loading}
+									onClick={() => handleClickConnect(PROVIDER_TYPE.METAMASK)}
+								>
+									Connect
+								</Button>
+							)}
+
 							<Button
 								className="mx-2"
 								loading={loading}
-								onClick={() => handleClickConnect(PROVIDER_TYPE.METAMASK)}
+								onClick={() => handleClickConnect(PROVIDER_TYPE.WALLET_CONNECT)}
 							>
-								Connect
+								WalletConnect
 							</Button>
-						)}
-
-						<Button
-							className="mx-2"
-							loading={loading}
-							onClick={() => handleClickConnect(PROVIDER_TYPE.WALLET_CONNECT)}
-						>
-							WalletConnect
-						</Button>
-					</div>
+						</div>
+					</>
 				)}
 
 				{account && !!token.ownerBalance && !mintLeft && (
