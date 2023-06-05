@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/web3-simple-nft-minting/static/css/main.69d7b3e0.css",
-    "main.js": "/web3-simple-nft-minting/static/js/main.cb6c5a80.js",
+    "main.css": "/web3-simple-nft-minting/static/css/main.1ed62dbf.css",
+    "main.js": "/web3-simple-nft-minting/static/js/main.5ebd930e.js",
     "static/js/787.854ca244.chunk.js": "/web3-simple-nft-minting/static/js/787.854ca244.chunk.js",
     "index.html": "/web3-simple-nft-minting/index.html",
-    "main.69d7b3e0.css.map": "/web3-simple-nft-minting/static/css/main.69d7b3e0.css.map",
-    "main.cb6c5a80.js.map": "/web3-simple-nft-minting/static/js/main.cb6c5a80.js.map",
+    "main.1ed62dbf.css.map": "/web3-simple-nft-minting/static/css/main.1ed62dbf.css.map",
+    "main.5ebd930e.js.map": "/web3-simple-nft-minting/static/js/main.5ebd930e.js.map",
     "787.854ca244.chunk.js.map": "/web3-simple-nft-minting/static/js/787.854ca244.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69d7b3e0.css",
-    "static/js/main.cb6c5a80.js"
+    "static/css/main.1ed62dbf.css",
+    "static/js/main.5ebd930e.js"
   ]
 }
